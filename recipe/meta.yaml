@@ -38,6 +38,7 @@ requirements:
     - r-glue
     - r-haven
     - r-jsonlite
+    - r-lifecycle
     - r-purrr
     - r-readr
     - r-readxl
@@ -58,6 +59,7 @@ requirements:
     - r-glue
     - r-haven
     - r-jsonlite
+    - r-lifecycle
     - r-purrr
     - r-readr
     - r-readxl
